@@ -6,3 +6,5 @@ https://github.com/DustinGottlieb/Dustins-Tech-Blog
 
 Heroku:
 https://dustins-tech-blog.herokuapp.com/
+
+![Screenshot](./public/Screenshot.JPG)
